@@ -186,7 +186,7 @@ export default function Home() {
                   data-testid="character-container"
                 >
                   <img 
-                    src={vintageCharacterImage}
+                    src="/little-man.png"
                     alt="Little Man - Vintage Cartoon Superhero" 
                     className="w-full h-full object-contain rounded-lg"
                     data-testid="character-image"
